@@ -10,13 +10,13 @@
     <lastupdate>4</lastupdate>
     <products>
         <product>
-            <id>0</id>
+            <id>1</id>
             <name>COLIN</name>
             <logo>icones/colin.jpg</logo>
             <cout>1</cout>
             <croissance>1,02</croissance>
             <revenu>2</revenu>
-            <vitesse>10</vitesse>
+            <vitesse>1000</vitesse>
             <quantite>1</quantite>
             <timeleft>0</timeleft>
             <managerUnlocked>false</managerUnlocked>
@@ -33,13 +33,13 @@
             </palliers>
         </product>
         <product>
-            <id>1</id>
+            <id>2</id>
             <name>JOHANA</name>
             <logo>icones/jojo.jpg</logo>
             <cout>3</cout>
             <croissance>1,05</croissance>
             <revenu>5</revenu>
-            <vitesse>30</vitesse>
+            <vitesse>3000</vitesse>
             <quantite>0</quantite>
             <timeleft>10</timeleft>
             <managerUnlocked>false</managerUnlocked>
@@ -56,13 +56,13 @@
             </palliers>
         </product>
         <product>
-            <id>2</id>
+            <id>3</id>
             <name>IMANE</name>
             <logo>icones/imane.jpg</logo>
             <cout>5</cout>
             <croissance>1,10</croissance>
             <revenu>8</revenu>
-            <vitesse>50</vitesse>
+            <vitesse>5000</vitesse>
             <quantite>0</quantite>
             <timeleft>20</timeleft>
             <managerUnlocked>false</managerUnlocked>
@@ -79,13 +79,13 @@
             </palliers>
         </product>
         <product>
-            <id>3</id>
+            <id>4</id>
             <name>TRISTAN</name>
             <logo>icones/tristan.jpg</logo>
             <cout>8</cout>
             <croissance>1,15</croissance>
             <revenu>10</revenu>
-            <vitesse>60</vitesse>
+            <vitesse>6000</vitesse>
             <quantite>0</quantite>
             <timeleft>30</timeleft>
             <managerUnlocked>false</managerUnlocked>
@@ -102,13 +102,13 @@
             </palliers>
         </product>
         <product>
-            <id>4</id>
+            <id>5</id>
             <name>ALEX</name>
             <logo>icones/alex.jpg</logo>
             <cout>10</cout>
             <croissance>1,20</croissance>
             <revenu>15</revenu>
-            <vitesse>70</vitesse>
+            <vitesse>7000</vitesse>
             <quantite>0</quantite>
             <timeleft>40</timeleft>
             <managerUnlocked>false</managerUnlocked>
@@ -125,13 +125,13 @@
             </palliers>
         </product>
         <product>
-            <id>5</id>
+            <id>6</id>
             <name>DENO</name>
             <logo>icones/deno.jpg</logo>
             <cout>15</cout>
             <croissance>1,20</croissance>
             <revenu>20</revenu>
-            <vitesse>80</vitesse>
+            <vitesse>8000</vitesse>
             <quantite>0</quantite>
             <timeleft>50</timeleft>
             <managerUnlocked>false</managerUnlocked>
@@ -178,27 +178,63 @@
             <idcible>123</idcible>
             <ratio>3.1415926535</ratio>
             <typeratio>vitesse</typeratio>
-            <unlocked>true</unlocked>
+            <unlocked>false</unlocked>
         </pallier>
     </angelupgrades>
     <managers>
         <pallier>
             <name>LUCAS</name>
             <logo>icones/lucas.jpg</logo>
-            <seuil>123</seuil>
-            <idcible>123</idcible>
-            <ratio>3.1415926535</ratio>
+            <seuil>1000</seuil>
+            <idcible>1</idcible>
+            <ratio>1.5</ratio>
             <typeratio>vitesse</typeratio>
-            <unlocked>true</unlocked>
+            <unlocked>false</unlocked>
         </pallier>
         <pallier>
             <name>VICTORIA</name>
             <logo>icones/victoria.jpg</logo>
-            <seuil>123</seuil>
-            <idcible>123</idcible>
-            <ratio>3.1415926535</ratio>
+            <seuil>15000</seuil>
+            <idcible>2</idcible>
+            <ratio>1.7</ratio>
             <typeratio>vitesse</typeratio>
-            <unlocked>true</unlocked>
+            <unlocked>false</unlocked>
+        </pallier>
+        <pallier>
+            <name>JULIA</name>
+            <logo>icones/julia.png</logo>
+            <seuil>30000</seuil>
+            <idcible>3</idcible>
+            <ratio>1.7</ratio>
+            <typeratio>vitesse</typeratio>
+            <unlocked>false</unlocked>
+        </pallier>
+        <pallier>
+            <name>JEAN-EDOUARD</name>
+            <logo>icones/jed.png</logo>
+            <seuil>50000</seuil>
+            <idcible>4</idcible>
+            <ratio>1.7</ratio>
+            <typeratio>vitesse</typeratio>
+            <unlocked>false</unlocked>
+        </pallier>
+        <pallier>
+            <name>LEANDRE</name>
+            <logo>icones/leandre.jpg</logo>
+            <seuil>80000</seuil>
+            <idcible>5</idcible>
+            <ratio>1.7</ratio>
+            <typeratio>vitesse</typeratio>
+            <unlocked>false</unlocked>
+        </pallier>
+        <pallier>
+            <name>LA COLLOC</name>
+            <logo>icones/colloc.png</logo>
+            <seuil>100000</seuil>
+            <idcible>6</idcible>
+            <ratio>1.7</ratio>
+            <typeratio>vitesse</typeratio>
+            <unlocked>false</unlocked>
         </pallier>
     </managers>
 
