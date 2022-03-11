@@ -184,8 +184,8 @@
     <managers>
         <pallier>
             <name>LUCAS</name>
-            <logo>icones/lucas.jpg</logo>
-            <seuil>1000</seuil>
+            <logo>icones/lulu.png</logo>
+            <seuil>500</seuil>
             <idcible>1</idcible>
             <ratio>1.5</ratio>
             <typeratio>vitesse</typeratio>
@@ -193,8 +193,8 @@
         </pallier>
         <pallier>
             <name>VICTORIA</name>
-            <logo>icones/victoria.jpg</logo>
-            <seuil>15000</seuil>
+            <logo>icones/victoria.png</logo>
+            <seuil>1000</seuil>
             <idcible>2</idcible>
             <ratio>1.7</ratio>
             <typeratio>vitesse</typeratio>
@@ -203,7 +203,7 @@
         <pallier>
             <name>JULIA</name>
             <logo>icones/julia.png</logo>
-            <seuil>30000</seuil>
+            <seuil>3000</seuil>
             <idcible>3</idcible>
             <ratio>1.7</ratio>
             <typeratio>vitesse</typeratio>
@@ -212,7 +212,7 @@
         <pallier>
             <name>JEAN-EDOUARD</name>
             <logo>icones/jed.png</logo>
-            <seuil>50000</seuil>
+            <seuil>5000</seuil>
             <idcible>4</idcible>
             <ratio>1.7</ratio>
             <typeratio>vitesse</typeratio>
@@ -220,8 +220,8 @@
         </pallier>
         <pallier>
             <name>LEANDRE</name>
-            <logo>icones/leandre.jpg</logo>
-            <seuil>80000</seuil>
+            <logo>icones/leandre.png</logo>
+            <seuil>10000</seuil>
             <idcible>5</idcible>
             <ratio>1.7</ratio>
             <typeratio>vitesse</typeratio>
@@ -230,7 +230,7 @@
         <pallier>
             <name>LA COLLOC</name>
             <logo>icones/colloc.png</logo>
-            <seuil>100000</seuil>
+            <seuil>20000</seuil>
             <idcible>6</idcible>
             <ratio>1.7</ratio>
             <typeratio>vitesse</typeratio>
