@@ -2,12 +2,12 @@
 <world>
     <name>Meilleure Promo ISIS</name>
     <logo>icones/logoISIS.png</logo>
-    <money>496.0799999999999</money>
-    <score>496.0799999999999</score>
+    <money>856.0799999999999</money>
+    <score>856.0799999999999</score>
     <totalangels>4.0</totalangels>
     <activeangels>4.0</activeangels>
     <angelbonus>0</angelbonus>
-    <lastupdate>1647209002694</lastupdate>
+    <lastupdate>1647213156436</lastupdate>
     <products>
         <product>
             <id>1</id>
@@ -18,7 +18,7 @@
             <revenu>2.0</revenu>
             <vitesse>250</vitesse>
             <quantite>1</quantite>
-            <timeleft>0</timeleft>
+            <timeleft>-2921009</timeleft>
             <managerUnlocked>false</managerUnlocked>
             <palliers>
                 <pallier>
@@ -26,7 +26,7 @@
                     <logo>icones/colin.jpg</logo>
                     <seuil>100</seuil>
                     <idcible>1</idcible>
-                    <ratio>2</ratio>
+                    <ratio>2.0</ratio>
                     <typeratio>vitesse</typeratio>
                     <unlocked>false</unlocked>
                 </pallier>
@@ -35,7 +35,7 @@
                     <logo>icones/colin.jpg</logo>
                     <seuil>200</seuil>
                     <idcible>1</idcible>
-                    <ratio>2</ratio>
+                    <ratio>2.0</ratio>
                     <typeratio>vitesse</typeratio>
                     <unlocked>false</unlocked>
                 </pallier>
@@ -44,7 +44,7 @@
                     <logo>icones/colin.jpg</logo>
                     <seuil>300</seuil>
                     <idcible>1</idcible>
-                    <ratio>2</ratio>
+                    <ratio>2.0</ratio>
                     <typeratio>vitesse</typeratio>
                     <unlocked>false</unlocked>
                 </pallier>
@@ -59,7 +59,7 @@
             <revenu>5.0</revenu>
             <vitesse>1500</vitesse>
             <quantite>0</quantite>
-            <timeleft>0</timeleft>
+            <timeleft>-2921009</timeleft>
             <managerUnlocked>false</managerUnlocked>
             <palliers>
                 <pallier>
@@ -67,7 +67,7 @@
                     <logo>icones/jojo.jpg</logo>
                     <seuil>100</seuil>
                     <idcible>2</idcible>
-                    <ratio>2</ratio>
+                    <ratio>2.0</ratio>
                     <typeratio>gain</typeratio>
                     <unlocked>false</unlocked>
                 </pallier>
@@ -76,7 +76,7 @@
                     <logo>icones/jojo.jpg</logo>
                     <seuil>200</seuil>
                     <idcible>2</idcible>
-                    <ratio>2</ratio>
+                    <ratio>2.0</ratio>
                     <typeratio>gain</typeratio>
                     <unlocked>false</unlocked>
                 </pallier>
@@ -85,7 +85,7 @@
                     <logo>icones/jojo.jpg</logo>
                     <seuil>300</seuil>
                     <idcible>2</idcible>
-                    <ratio>2</ratio>
+                    <ratio>2.0</ratio>
                     <typeratio>gain</typeratio>
                     <unlocked>false</unlocked>
                 </pallier>
@@ -100,7 +100,7 @@
             <revenu>8.0</revenu>
             <vitesse>6000</vitesse>
             <quantite>0</quantite>
-            <timeleft>0</timeleft>
+            <timeleft>-2921009</timeleft>
             <managerUnlocked>false</managerUnlocked>
             <palliers>
                 <pallier>
@@ -108,7 +108,7 @@
                     <logo>icones/imane.jpg</logo>
                     <seuil>100</seuil>
                     <idcible>3</idcible>
-                    <ratio>2</ratio>
+                    <ratio>2.0</ratio>
                     <typeratio>vitesse</typeratio>
                     <unlocked>false</unlocked>
                 </pallier>
@@ -117,7 +117,7 @@
                     <logo>icones/imane.jpg</logo>
                     <seuil>200</seuil>
                     <idcible>3</idcible>
-                    <ratio>2</ratio>
+                    <ratio>2.0</ratio>
                     <typeratio>vitesse</typeratio>
                     <unlocked>false</unlocked>
                 </pallier>
@@ -126,7 +126,7 @@
                     <logo>icones/imane.jpg</logo>
                     <seuil>300</seuil>
                     <idcible>3</idcible>
-                    <ratio>2</ratio>
+                    <ratio>2.0</ratio>
                     <typeratio>vitesse</typeratio>
                     <unlocked>false</unlocked>
                 </pallier>
@@ -141,7 +141,7 @@
             <revenu>10.0</revenu>
             <vitesse>12000</vitesse>
             <quantite>0</quantite>
-            <timeleft>0</timeleft>
+            <timeleft>-2921009</timeleft>
             <managerUnlocked>false</managerUnlocked>
             <palliers>
                 <pallier>
@@ -149,7 +149,7 @@
                     <logo>icones/tristan.jpg</logo>
                     <seuil>100</seuil>
                     <idcible>4</idcible>
-                    <ratio>2</ratio>
+                    <ratio>2.0</ratio>
                     <typeratio>gain</typeratio>
                     <unlocked>false</unlocked>
                 </pallier>
@@ -158,7 +158,7 @@
                     <logo>icones/tristan.jpg</logo>
                     <seuil>200</seuil>
                     <idcible>4</idcible>
-                    <ratio>2</ratio>
+                    <ratio>2.0</ratio>
                     <typeratio>gain</typeratio>
                     <unlocked>false</unlocked>
                 </pallier>
@@ -167,7 +167,7 @@
                     <logo>icones/tristan.jpg</logo>
                     <seuil>300</seuil>
                     <idcible>4</idcible>
-                    <ratio>2</ratio>
+                    <ratio>2.0</ratio>
                     <typeratio>gain</typeratio>
                     <unlocked>false</unlocked>
                 </pallier>
@@ -182,7 +182,7 @@
             <revenu>15.0</revenu>
             <vitesse>24000</vitesse>
             <quantite>0</quantite>
-            <timeleft>0</timeleft>
+            <timeleft>-2921009</timeleft>
             <managerUnlocked>false</managerUnlocked>
             <palliers>
                 <pallier>
@@ -190,7 +190,7 @@
                     <logo>icones/alex.jpg</logo>
                     <seuil>100</seuil>
                     <idcible>5</idcible>
-                    <ratio>2</ratio>
+                    <ratio>2.0</ratio>
                     <typeratio>vitesse</typeratio>
                     <unlocked>false</unlocked>
                 </pallier>
@@ -199,7 +199,7 @@
                     <logo>icones/alex.jpg</logo>
                     <seuil>200</seuil>
                     <idcible>5</idcible>
-                    <ratio>2</ratio>
+                    <ratio>2.0</ratio>
                     <typeratio>vitesse</typeratio>
                     <unlocked>false</unlocked>
                 </pallier>
@@ -208,7 +208,7 @@
                     <logo>icones/alex.jpg</logo>
                     <seuil>300</seuil>
                     <idcible>5</idcible>
-                    <ratio>2</ratio>
+                    <ratio>2.0</ratio>
                     <typeratio>vitesse</typeratio>
                     <unlocked>false</unlocked>
                 </pallier>
@@ -223,7 +223,7 @@
             <revenu>20.0</revenu>
             <vitesse>84000</vitesse>
             <quantite>0</quantite>
-            <timeleft>0</timeleft>
+            <timeleft>-2921009</timeleft>
             <managerUnlocked>false</managerUnlocked>
             <palliers>
                 <pallier>
@@ -231,7 +231,7 @@
                     <logo>icones/deno.jpg</logo>
                     <seuil>100</seuil>
                     <idcible>6</idcible>
-                    <ratio>2</ratio>
+                    <ratio>2.0</ratio>
                     <typeratio>gain</typeratio>
                     <unlocked>false</unlocked>
                 </pallier>
@@ -240,7 +240,7 @@
                     <logo>icones/deno.jpg</logo>
                     <seuil>200</seuil>
                     <idcible>6</idcible>
-                    <ratio>2</ratio>
+                    <ratio>2.0</ratio>
                     <typeratio>gain</typeratio>
                     <unlocked>false</unlocked>
                 </pallier>
@@ -249,7 +249,7 @@
                     <logo>icones/deno.jpg</logo>
                     <seuil>300</seuil>
                     <idcible>6</idcible>
-                    <ratio>2</ratio>
+                    <ratio>2.0</ratio>
                     <typeratio>gain</typeratio>
                     <unlocked>false</unlocked>
                 </pallier>
@@ -260,7 +260,7 @@
         <pallier>
             <name>All x1</name>
             <logo>icones/all.jpg</logo>
-            <seuil>30.0</seuil>
+            <seuil>0</seuil>
             <idcible>0</idcible>
             <ratio>2.0</ratio>
             <typeratio>gain</typeratio>
@@ -269,7 +269,7 @@
         <pallier>
             <name>All x2</name>
             <logo>icones/all.jpg</logo>
-            <seuil>150.0</seuil>
+            <seuil>0</seuil>
             <idcible>0</idcible>
             <ratio>3.0</ratio>
             <typeratio>gain</typeratio>
@@ -278,7 +278,7 @@
         <pallier>
             <name>All x3</name>
             <logo>icones/all.jpg</logo>
-            <seuil>375.0</seuil>
+            <seuil>0</seuil>
             <idcible>0</idcible>
             <ratio>3.0</ratio>
             <typeratio>gain</typeratio>
@@ -287,7 +287,7 @@
         <pallier>
             <name>All x4</name>
             <logo>icones/all.jpg</logo>
-            <seuil>500.0</seuil>
+            <seuil>0</seuil>
             <idcible>0</idcible>
             <ratio>3.0</ratio>
             <typeratio>gain</typeratio>
@@ -298,7 +298,7 @@
         <pallier>
             <name>Colin</name>
             <logo>icones/colin.jpg</logo>
-            <seuil>1000.0</seuil>
+            <seuil>0</seuil>
             <idcible>1</idcible>
             <ratio>3.0</ratio>
             <typeratio>gain</typeratio>
@@ -307,7 +307,7 @@
         <pallier>
             <name>johana</name>
             <logo>icones/jojo.jpg</logo>
-            <seuil>15000.0</seuil>
+            <seuil>0</seuil>
             <idcible>2</idcible>
             <ratio>3.0</ratio>
             <typeratio>gain</typeratio>
@@ -316,7 +316,7 @@
         <pallier>
             <name>Imane</name>
             <logo>icones/imane.jpg</logo>
-            <seuil>15000.0</seuil>
+            <seuil>0</seuil>
             <idcible>3</idcible>
             <ratio>3.0</ratio>
             <typeratio>gain</typeratio>
@@ -324,8 +324,8 @@
         </pallier>
         <pallier>
             <name>Tristan</name>
-            <logo>icones/voitureelec.jpg</logo>
-            <seuil>100000.0</seuil>
+            <logo>icones/tristan.jpg</logo>
+            <seuil>0</seuil>
             <idcible>4</idcible>
             <ratio>3.0</ratio>
             <typeratio>gain</typeratio>
@@ -334,7 +334,7 @@
         <pallier>
             <name>Alex</name>
             <logo>icones/alex.jpg</logo>
-            <seuil>200000.0</seuil>
+            <seuil>0</seuil>
             <idcible>5</idcible>
             <ratio>3.0</ratio>
             <typeratio>gain</typeratio>
@@ -343,7 +343,7 @@
         <pallier>
             <name>Deno</name>
             <logo>icones/deno.jpg</logo>
-            <seuil>3000000.0</seuil>
+            <seuil>0</seuil>
             <idcible>6</idcible>
             <ratio>3.0</ratio>
             <typeratio>gain</typeratio>
@@ -354,7 +354,7 @@
         <pallier>
             <name>Gauthier</name>
             <logo>icones/gauthier.png</logo>
-            <seuil>10.0</seuil>
+            <seuil>0</seuil>
             <idcible>0</idcible>
             <ratio>3.0</ratio>
             <typeratio>gain</typeratio>
@@ -363,7 +363,7 @@
         <pallier>
             <name>Diogo</name>
             <logo>icones/diogo.png</logo>
-            <seuil>100000.0</seuil>
+            <seuil>0</seuil>
             <idcible>-1</idcible>
             <ratio>2.0</ratio>
             <typeratio>ange</typeratio>
@@ -372,7 +372,7 @@
         <pallier>
             <name>Cecile</name>
             <logo>icones/cecile.png</logo>
-            <seuil>1.0E8</seuil>
+            <seuil>0</seuil>
             <idcible>-1</idcible>
             <ratio>2.0</ratio>
             <typeratio>ange</typeratio>
@@ -381,7 +381,7 @@
         <pallier>
             <name>Lisa</name>
             <logo>icones/lisa.png</logo>
-            <seuil>1.0E9</seuil>
+            <seuil>0</seuil>
             <idcible>0</idcible>
             <ratio>5.0</ratio>
             <typeratio>gain</typeratio>
