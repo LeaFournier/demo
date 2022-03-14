@@ -172,13 +172,7 @@ public class Services {
         int bonusAngel = world.getAngelbonus();
         for (ProductType produit : world.getProducts().getProduct()) {
             if (!produit.isManagerUnlocked()) {
-                if (produit.getTimeleft() != 0 && produit.getTimeleft() < diffTemps) {
-                    world.setScore(world.getScore() + produit.getRevenu() * (1 + world.getActiveangels() * bonusAngel / 100));
-                    world.setMoney(world.getMoney() + produit.getRevenu() * (1 + world.getActiveangels() * bonusAngel / 100));
-                }
-                else {
                     produit.setTimeleft(produit.getTimeleft()-diffTemps);
-                }
             }
             else {
                 long nombreProduitsCrees = diffTemps/produit.getVitesse();
