@@ -2,12 +2,12 @@
 <world>
     <name>Meilleure Promo ISIS</name>
     <logo>icones/logoISIS.png</logo>
-    <money>1330.0</money>
-    <score>3016.08</score>
+    <money>1510.0</money>
+    <score>3196.08</score>
     <totalangels>4.0</totalangels>
     <activeangels>4.0</activeangels>
     <angelbonus>0</angelbonus>
-    <lastupdate>1647219230327</lastupdate>
+    <lastupdate>1647220061024</lastupdate>
     <products>
         <product>
             <id>1</id>
