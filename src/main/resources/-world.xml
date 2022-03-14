@@ -2,12 +2,12 @@
 <world>
     <name>Meilleure Promo ISIS</name>
     <logo>icones/logoISIS.png</logo>
-    <money>1210.0</money>
-    <score>2896.08</score>
+    <money>1330.0</money>
+    <score>3016.08</score>
     <totalangels>4.0</totalangels>
     <activeangels>4.0</activeangels>
     <angelbonus>0</angelbonus>
-    <lastupdate>1647218518212</lastupdate>
+    <lastupdate>1647219230327</lastupdate>
     <products>
         <product>
             <id>1</id>
@@ -53,7 +53,7 @@
         <product>
             <id>2</id>
             <name>JOHANA</name>
-            <logo>icones/jojo.jpg</logo>
+            <logo>icones/jo.jpg</logo>
             <cout>3.0</cout>
             <croissance>1.15</croissance>
             <revenu>5.0</revenu>
@@ -306,7 +306,7 @@
         </pallier>
         <pallier>
             <name>johana</name>
-            <logo>icones/jojo.jpg</logo>
+            <logo>icones/jo.jpg</logo>
             <seuil>15000</seuil>
             <idcible>2</idcible>
             <ratio>3.0</ratio>
